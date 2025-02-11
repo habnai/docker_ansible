@@ -1,7 +1,7 @@
 ---
 # all non secret vars
 zfs: {
-  poolName: dataPool,
+  poolName: dockPool,
 }
 
 adminuser: user # should be an existing one from above
